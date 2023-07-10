@@ -13,12 +13,12 @@
 @import url(https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css);
 :root {
   --home-image: url(https://maendisease.github.io/Outlook/illustrations/homeimage-default.avif);
-  --accent-hue: 208;
-  --accent-saturation: 85%;
-  --accent-brightness: 40%;
+  --accent-hue: 283;
+  --accent-saturation: 69%;
+  --accent-brightness: 28%;
   --gradient-toggle: 1;
-  --gradient-hue-shift: 0.2;
-  --gradient-saturation: 50%;
+  --gradient-hue-shift: 1.14;
+  --gradient-saturation: 54%;
   --gradient-deg: 179.52deg;
   --customFont: "Segoe UI";
 }
